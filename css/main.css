@@ -89,6 +89,7 @@
   --gradient-two--light: #f5c5cd;
   --gradient-three--light: #ac8fe3;
   /* dark color scheme */
+  /*
   --base--dark: #000000;
   --base-tint--dark: #1C1C1C;
   --base-shade--dark: #000000;
@@ -111,8 +112,8 @@
   --t-opp-muted--dark: #8C8C8C;
   --gradient-one--dark: #CCCCCC;
   --gradient-two--dark: #B3B3B3;
-  --gradient-three--dark: #9A9A9A;
-  /* --base--dark: #111111;
+  --gradient-three--dark: #9A9A9A; */
+  --base--dark: #111111;
   --base-tint--dark: #161616;
   --base-shade--dark: #000000;
   --accent--dark: #E4B8BF;
@@ -134,7 +135,7 @@
   --t-opp-muted--dark: #717586;
   --gradient-one--dark: #a287d5;
   --gradient-two--dark: #E4B8BF;
-  --gradient-three--dark: #8b6bc5; */
+  --gradient-three--dark: #8b6bc5;
   
   /* --base--dark: #000000;
   --base-tint--dark: #1C1C1C;
